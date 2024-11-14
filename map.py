@@ -143,4 +143,3 @@ class Map:
         # Place the shop tile at the chosen coordinates
         self.init_map_data[shop_y][shop_x] = shop  
         print(f"Shop placed at ({shop_x}, {shop_y})")
-

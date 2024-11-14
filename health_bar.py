@@ -78,3 +78,4 @@ class XPBar:
               f"{lost_bars * self.symbol_lost}"
               f"{self.colors['default']}"
               f"{self.barrier}")
+        
